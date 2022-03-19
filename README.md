@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @geeklord194
-- 👀 I’m interested in ...Learning new programming languages and mater them!
+- 👀 I’m interested in ...Learning new programming languages and master them!
 - 🌱 I’m currently learning ...Python
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...pateldhruv9212@gmail.com
